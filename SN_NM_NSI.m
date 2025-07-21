@@ -1,7 +1,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Author: Rahul Gaurav and Romain Valabregue
-% Date: 2016
+% Date: Early 2016
 % Last Modified: 21st July 2025
 % Description: This script performs analysis of substantia nigra-based normalized signal intensity (NSI).
 % Version: 2.0
